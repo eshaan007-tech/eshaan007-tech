@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eshaan
 
-🎓 CS grad May 2026 · Open for full-time Network/Cloud roles
+🎓 CS grad May 2026 · Open for full-time Network/Cloud/SDE roles
 
 I build networks that don't need babysitting and cloud infrastructure that actually behaves.
 
