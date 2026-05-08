@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Eshaan
 
 🎓 CS grad May 2026 · Open for full-time SDE / SRE / DevOps / Cloud roles  
-I build real software — from self-healing infrastructure to offline-first desktop tools with embedded AI.  
-Linux first. Automation always. Ship it and make it run.
+I architect self-healing infrastructure and build offline-first tools with embedded AI.  
+Linux first. Automation always. Ship it.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -22,14 +22,14 @@ Linux first. Automation always. Ship it and make it run.
 
 ## 🔧 What I'm Building
 
-**[LIRA](https://lira-website-sage.vercel.app)** — Offline Infrastructure Diagnostic Software *(Active Development)*  
-A fully offline standalone desktop app (PySide6) with a custom log ingestion engine built on Python asyncio + multiprocessing, a noise-reduction and clustering layer, DuckDB-backed timeline visualization, and an embedded quantized LLM (llama.cpp / GGUF) for automated root-cause analysis — zero external API calls, zero data leaves the machine.
+**[LIRA](https://lira-website-sage.vercel.app)** — Offline Infrastructure Diagnostic Software 🚧 *actively building this*  
+Currently building a fully offline standalone desktop app (PySide6) with a custom log ingestion engine on Python asyncio + multiprocessing, a noise-reduction and clustering layer, DuckDB-backed timeline visualization, and an embedded quantized LLM (llama.cpp / GGUF) for automated root-cause analysis — zero external API calls, zero data leaves the machine.
 
 **[Self-Healing Flask Infrastructure](https://github.com/eshaan007-tech/Self-Healing-Flask-Infrastructure-with-Ansible)**  
 Python health monitor + Ansible automation that detects container failure and recovers in under 5 seconds — no manual intervention, event-driven, production-minded.
 
 **[Alzheimer Detection System](https://github.com/eshaan007-tech/Alzheimer-Detection-System)**  
-Flask + TensorFlow/Keras web app classifying Alzheimer's progression from MRI scans using an Xception-based CNN — 99% accuracy on binary classification (CN vs. MCI).
+Flask + TensorFlow/Keras web app classifying Alzheimer's progression stages from MRI scans using an Xception-based CNN, integrated for real-time diagnostic confidence scoring.
 
 ---
 
