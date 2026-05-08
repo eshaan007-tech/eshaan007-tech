@@ -1,38 +1,45 @@
 # 👋 Hi, I'm Eshaan
 
-🎓 CS grad May 2026 · Open for full-time Network/Cloud/SDE roles
-
-I build networks that don't need babysitting and cloud infrastructure that actually behaves.
-
-Linux first. Automation always. Observability by default.
+🎓 CS grad May 2026 · Open for full-time SDE / SRE / DevOps / Cloud roles  
+I build real software — from self-healing infrastructure to offline-first desktop tools with embedded AI.  
+Linux first. Automation always. Ship it and make it run.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+
+---
+
+## 🔧 What I'm Building
+
+**[LIRA](https://lira-website-sage.vercel.app)** — Offline Infrastructure Diagnostic Software *(Active Development)*  
+A fully offline standalone desktop app (PySide6) with a custom log ingestion engine built on Python asyncio + multiprocessing, a noise-reduction and clustering layer, DuckDB-backed timeline visualization, and an embedded quantized LLM (llama.cpp / GGUF) for automated root-cause analysis — zero external API calls, zero data leaves the machine.
+
+**[Self-Healing Flask Infrastructure](https://github.com/eshaan007-tech/Self-Healing-Flask-Infrastructure-with-Ansible)**  
+Python health monitor + Ansible automation that detects container failure and recovers in under 5 seconds — no manual intervention, event-driven, production-minded.
+
+**[Alzheimer Detection System](https://github.com/eshaan007-tech/Alzheimer-Detection-System)**  
+Flask + TensorFlow/Keras web app classifying Alzheimer's progression from MRI scans using an Xception-based CNN — 99% accuracy on binary classification (CN vs. MCI).
 
 ---
 
 ## Interests
 
-Cloud · Networking · Security · DevOps · Automation · AI
+Cloud · DevOps · SRE · Automation · Networking · Security · AI
 
 ---
 
 ## Where to find me
 
-[LinkedIn](https://linkedin.com/in/eshaanuddin) · [GitHub](https://github.com/eshaan007-tech) · [Email](mailto:eshaanuddin001@gmail.com)
-
+[LinkedIn](https://linkedin.com/in/eshaanuddin) · [GitHub](https://github.com/eshaan007-tech) · [Email](mailto:eshaanuddin001@gmail.com)  
 📄 Resume available upon request
