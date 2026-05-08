@@ -31,6 +31,9 @@ Python health monitor + Ansible automation that detects container failure and re
 **[Alzheimer Detection System](https://github.com/eshaan007-tech/Alzheimer-Detection-System)**  
 Flask + TensorFlow/Keras web app classifying Alzheimer's progression stages from MRI scans using an Xception-based CNN, integrated for real-time diagnostic confidence scoring.
 
+**[Multi-ISP Residential Network Design](https://github.com/eshaan007-tech/multi-isp-network-design)**  
+Designed and simulated a multi-ISP residential neighborhood network in Cisco Packet Tracer — 3 ISP junctions, 10 isolated house LANs via VLAN segmentation, dual-ISP redundancy for one node, DHCP scoping, WPA2-PSK wireless, and verified cross-WAN ICMP connectivity.
+
 ---
 
 ## Interests
